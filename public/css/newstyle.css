@@ -1,0 +1,29 @@
+/* .chat-popup {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 15px;
+    border: 1px solid #ccc;
+    width: 300px;
+    background-color: #f1f1f1;
+    padding: 10px;
+}
+
+.chat-popup .close {
+    float: right;
+    cursor: pointer;
+} */
+
+html{
+    max-height: 500px;
+    height: 700px;
+}
+/* .chat-popup{
+    width: 400px;
+    height: 600px;
+    background-color: rgb(140, 30, 111);
+}
+.chat-popup .close {
+    float: right;
+    cursor: pointer;
+} */
